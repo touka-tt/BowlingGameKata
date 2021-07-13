@@ -1,0 +1,15 @@
+/Users/onebase/VSCode/BowlingGameKataCSharp/bin/Debug/net5.0/BowlingGameKataCSharp.deps.json
+/Users/onebase/VSCode/BowlingGameKataCSharp/bin/Debug/net5.0/BowlingGameKataCSharp.runtimeconfig.json
+/Users/onebase/VSCode/BowlingGameKataCSharp/bin/Debug/net5.0/BowlingGameKataCSharp.runtimeconfig.dev.json
+/Users/onebase/VSCode/BowlingGameKataCSharp/bin/Debug/net5.0/BowlingGameKataCSharp.dll
+/Users/onebase/VSCode/BowlingGameKataCSharp/bin/Debug/net5.0/ref/BowlingGameKataCSharp.dll
+/Users/onebase/VSCode/BowlingGameKataCSharp/bin/Debug/net5.0/BowlingGameKataCSharp.pdb
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.csproj.AssemblyReference.cache
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.AssemblyInfoInputs.cache
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.AssemblyInfo.cs
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.csproj.CoreCompileInputs.cache
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.dll
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/ref/BowlingGameKataCSharp.dll
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.pdb
+/Users/onebase/VSCode/BowlingGameKataCSharp/obj/Debug/net5.0/BowlingGameKataCSharp.genruntimeconfig.cache
